@@ -15,11 +15,11 @@
 - Only some of the weapons are available
 
 ### Monsters ###
-- Cultist
-- Vicious
-- Nurse
+- Cultist - less knockback and explodes on death infecting or killing every human around him (humans behind walls or fully covered by objects are not affected)
+- Vicious - slow movement but no knockback
+- Nurse - high speed, knockback and ignores armor
 
 ### Humans ###
-- Balanced
-- Weak Raptor
-- Heavy
+- Balanced - full health
+- Weak Raptor - very fast, however limited to 50% health
+- Heavy - slow movement and 200 armor
