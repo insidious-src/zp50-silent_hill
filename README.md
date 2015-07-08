@@ -24,4 +24,4 @@
 ### Humans ###
 - Balanced - full health
 - Weak Raptor - very fast, however limited to 50% health
-- Heavy - slow movement and 200 armor
+- Heavy - slow movement, 110% gravity and 200 armor
