@@ -9,6 +9,8 @@
 
 ### Characters ###
 - Custom made monster models representing exactly the ones from the Silent Hill games
+- Human models imported from different zombie games
+- Nemesis replaced by Pyramid Head (The Guardian)
 
 ### Equipment ###
 - Very limited ammunition
