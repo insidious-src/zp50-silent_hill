@@ -2,7 +2,7 @@
 # Zombie Plague 5: Silent Hill #
 
 ### Environment ###
-- Switching between 2 parallel worlds every round
+- Switching between 2 parallel worlds several times each round
 - Falling ashes
 - Dense mist
 - Depressing atmosphere and ambient music for each game mode
