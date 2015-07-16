@@ -15,7 +15,7 @@
 ### Game Modes ###
 - Armageddon: in Otherworld the whole round
 - Plague: Only a single longer switch to Real World
-- Signle/Multiple Infection: Constantly switching between worlds
+- Single/Multiple Infection: Constantly switching between worlds
 - Swarm: Constantly switching but "Otherworld" periods are longer
 
 ### Equipment ###
