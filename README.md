@@ -48,7 +48,7 @@
 - Bloody Penitentiary (zm_ahouse)
 
 ### Requirements ###
-- Half-Life Dedicated Server (CSTRIKE)
+- Half-Life Dedicated Server (SteamCMD)
 - Metamod 1.21+
 - AMX Mod X 1.8.2+
 - Zombie Plague 5+
