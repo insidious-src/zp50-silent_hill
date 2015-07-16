@@ -47,6 +47,12 @@
 - Abandoned School (WIP)
 - Bloody Penitentiary (zm_ahouse)
 
+### Requirements ###
+- Half-Life Dedicated Server (CSTRIKE)
+- METAMOD
+- AMXMODX 1.8.2+
+- Zombie Plague 5+
+
 ### Credits ###
 - map: zm_ahouse      - [fighte3](http://cs.gamebanana.com/maps/156238)
 - map: zm_silent_hill - [BoLxB](http://cs.gamebanana.com/maps/140085)
