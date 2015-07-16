@@ -26,6 +26,7 @@
 - Smog    - less knockback and explodes on death infecting or killing every human around him (humans behind walls or fully covered by objects are not affected)
 - Vicious - slow movement but no knockback and lots of health points
 - Nurse   - high speed, knockback and ignores armor
+- Lurker  - relatively high speed, knockback, low life and can climb walls
 
 ### Humans ###
 - Balanced    - full health
