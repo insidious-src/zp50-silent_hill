@@ -49,8 +49,8 @@
 
 ### Requirements ###
 - Half-Life Dedicated Server (CSTRIKE)
-- METAMOD 1.21+
-- AMXMODX 1.8.2+
+- Metamod 1.21+
+- AMX Mod X 1.8.2+
 - Zombie Plague 5+
 
 ### Credits ###
