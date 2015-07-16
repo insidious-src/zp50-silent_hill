@@ -29,9 +29,10 @@
 - Lurker  - relatively high speed, knockback, low life and can climb walls
 
 ### Humans ###
-- Balanced    - full health
-- Weak Raptor - very fast, however limited to 50% health
-- Heavy       - slow movement, 110% gravity and 200 armor
+- Alex Trucker     - balanced, full health
+- Murphy Pendleton - WIP
+- Heather          - very fast, however limited to 50% health
+- Cybil Bennett    - slow movement, 110% gravity and 200 armor
 
 ### Extra Items ###
 - Humans:   Ammo
