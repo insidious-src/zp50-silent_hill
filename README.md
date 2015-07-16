@@ -12,6 +12,12 @@
 - Human models imported from different zombie games
 - Nemesis replaced by Pyramid Head (The Guardian)
 
+### Game Modes ###
+- Armageddon: in Otherworld the whole round
+- Plague: Only a single longer switch to Real World
+- Signle/Multiple Infection: Constantly switching between worlds
+- Swarm: Constantly switching but "Otherworld" periods are longer
+
 ### Equipment ###
 - Very limited ammunition
 - Only some of the weapons are available
