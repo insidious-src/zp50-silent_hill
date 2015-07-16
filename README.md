@@ -23,16 +23,16 @@
 - Only some of the weapons are available
 
 ### Monsters ###
-- Smog         - less knockback and explodes on death infecting or killing every human around him (humans behind walls or fully covered by objects are not affected)
-- Vicious      - slow movement but no knockback and lots of health points
-- Nurse        - high speed, knockback and ignores armor
-- Lurker       - relatively high speed, knockback, low life and can climb walls
+- Smog         - Less knockback and explodes on death infecting or killing every human around him (humans behind walls or fully covered by objects are not affected)
+- Vicious      - Slow movement but no knockback and lots of health points
+- Nurse        - High speed, knockback and ignores armor
+- Lurker       - Relatively high speed, knockback, low life and can climb walls
 - Pyramid Head - Nemesis
 
 ### Humans ###
-- Alex Trucker  - balanced, full health
-- Heather       - very fast, however limited to 50% health
-- Cybil Bennett - slow movement, 110% gravity and 200 armor
+- Alex Trucker  - Balanced, full health
+- Heather       - Very fast, however limited to 50% health
+- Cybil Bennett - Slow movement, 110% gravity and 200 armor
 - Order Soldier - Survivor
 
 ### Extra Items ###
