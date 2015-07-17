@@ -58,5 +58,5 @@
 
 ### Credits ###
 - map: zm_ahouse      - [fighte3](http://cs.gamebanana.com/maps/156238) & Ð¡ÐµÑ€}|{
-- map: zm_silent_hill - [BoLxB](http://cs.gamebanana.com/maps/140085)
+- map: zm_silent_hill - [BoLxB](http://cs.gamebanana.com/maps/140085), Cep}I{, 17thDay, Anikes, axel_kat, Hiubert & Psycho-A 
 - map: zm_rockhouse2  - ded_OK (ICQ: 392625794)
