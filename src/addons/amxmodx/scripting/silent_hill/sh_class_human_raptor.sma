@@ -55,7 +55,7 @@ new Float:weapon_max_speed[33] =
     0.0,   // DEAGLE
     165.0, // SG552
     145.0, // AK47
-    0.0    // KNIFE
+    0.0,   // KNIFE
     0.0,   // P90
     0.0,   // VEST
     0.0    // VESTHELM

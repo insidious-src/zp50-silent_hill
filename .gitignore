@@ -4,3 +4,5 @@
 .ftpconfig
 sftp-config.json
 ftpsync.settings
+*.amxx
+deploy/models/player/*/*.mdl

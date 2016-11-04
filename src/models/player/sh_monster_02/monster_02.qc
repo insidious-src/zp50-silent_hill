@@ -1,6 +1,6 @@
 $modelname "../../../../deploy/models/player/sh_monster02/sh_monster02.mdl"
-$cd "./"
-$cdtexture "./"
+$cd "."
+$cdtexture "."
 $cliptotextures
 
 // Write textures into a ???T.mdl

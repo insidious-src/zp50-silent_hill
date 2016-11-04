@@ -2,10 +2,10 @@
 $modelname "../../../../deploy/models/player/sh_nurse_2/sh_nurse_2.mdl"
 
 // Directory of .SMD
-$cd "./"
+$cd "."
 
 // Directory of .BMP
-//$cdtexture "./"
+$cdtexture "."
 $cliptotextures
 
 // Write textures into a ???T.mdl
