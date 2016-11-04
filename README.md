@@ -11,8 +11,19 @@
 - Custom made monster models representing exactly the ones from the Silent Hill games
 - Human models imported from different Silent Hill games
 - Nemesis replaced by Pyramid Head (The Guardian)
+- Smog
+- Lurker
+- Nurse
+- Needle
+- Faceless
+- Screamer
+- Cybil Bennett
+- Heather Mason
+- Alex Trucker
+- Travis Grady
+- Order Soldier
 
-### Game Modes ###
+### Game Mode Additions ###
 - Armageddon: in Otherworld the whole round
 - Plague: Only a single longer switch to Real World
 - Single/Multiple Infection: Constantly switching between worlds
@@ -23,21 +34,23 @@
 - Only some of the weapons are available
 
 ### Monsters ###
-- Smog         - Less knockback and explodes on death infecting or killing every human around him (humans behind walls or fully covered by objects are not affected)
-- Vicious      - Slow movement but no knockback and lots of health points
-- Nurse        - High speed, knockback and ignores armor
-- Lurker       - Relatively high speed, knockback, low life and can climb walls
-- Pyramid Head - Nemesis
+- Boomer   - Less knockback and explodes on death infecting or damaging every human in range
+- Heavy    - Slow movement but no knockback, lots of health and bullets don't pass through him
+- Assassin - High speed, knockback and ignores armor
+- Crawler  - Relatively high speed, knockback, low life and can climb walls
+- Nemesis
 
 ### Humans ###
-- Alex Trucker  - Balanced, full health
-- Heather       - Very fast, however limited to 50% health
-- Cybil Bennett - Slow movement, 110% gravity and 200 armor
-- Order Soldier - Survivor
+- Classic     - Balanced, full health
+- Weak Raptor - Very fast, however limited to 50% health and switching to heavy weapons makes her very slow
+- Heavy       - Slow movement, 2 primary weapons, 110% gravity and 250 armor
+- Survivor
 
 ### Extra Items ###
 - Humans:   Ammo
 - Humans:   Night Vision
+- Humans:   Flare
+- Humans:   Shield
 - Humans:   Instantly switch to the Real World for a short period of time
 - Monsters: Madness
 - Monsters: Anti-Infection Injection
@@ -45,18 +58,21 @@
 - Monsters: Stay in Otherworld for the rest of the round
 
 ### Maps ###
-- Silent Hill Hospital (zm_silent_hill)
-- Haunted Rocky House (zm_rockhouse2)
-- Abandoned School (WIP)
-- Bloody Penitentiary (zm_ahouse)
+- Silent Hill Hospital (zm_silent_hill) [big]
+- Elementary School (aim_silentnight) [small]
+- Abandoned School (dm_midwich) [big]
+- Bloody Penitentiary (zm_ahouse) [medium]
+
+### Misc ###
+- Custom Hitboxes
 
 ### Requirements ###
 - Half-Life Dedicated Server (SteamCMD)
-- Metamod 1.21+
+- Metamod(P) 1.20+
 - AMX Mod X 1.8.2+
 - Zombie Plague 5+
 
 ### Credits ###
-- map: zm_ahouse      - [fighte3](http://cs.gamebanana.com/maps/156238) & Ð¡ÐµÑ€}|{
-- map: zm_silent_hill - [BoLxB](http://cs.gamebanana.com/maps/140085), Cep}I{, 17thDay, Anikes, axel_kat, Hiubert & Psycho-A 
-- map: zm_rockhouse2  - ded_OK (ICQ: 392625794)
+- map: zm_ahouse       - [fighte3](http://cs.gamebanana.com/maps/156238) & Ð¡ÐµÑ€}|{
+- map: zm_silent_hill  - [BoLxB](http://cs.gamebanana.com/maps/140085), Cep}I{, 17thDay, Anikes, axel_kat, Hiubert & Psycho-A
+- map: aim_silentnight - Cha Siu Fan ( Glock18 )
