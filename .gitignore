@@ -5,4 +5,4 @@
 sftp-config.json
 ftpsync.settings
 *.amxx
-deploy/models/player/*/*.mdl
+/deploy/models/player/**/*.mdl
