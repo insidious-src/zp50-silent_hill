@@ -34,17 +34,17 @@
 - Only some of the weapons are available
 
 ### Monsters ###
-- Boomer   - Less knockback and explodes on death infecting or damaging every human in range
-- Heavy    - Slow movement but no knockback, lots of health and bullets don't pass through him
-- Assassin - High speed, knockback and ignores armor
-- Crawler  - Relatively high speed, knockback, low life and can climb walls
-- Nemesis
+- Smog         - Less knockback and explodes on death infecting or killing every human around him (humans behind walls or fully covered by objects are not affected)
+- Vicious      - Slow movement but no knockback, lots of health points and bullets don't pass through him
+- Nurse        - High speed, knockback and ignores armor
+- Lurker       - Relatively high speed, knockback, low life and can climb walls
+- Pyramid Head - Nemesis
 
 ### Humans ###
-- Classic     - Balanced, full health
-- Weak Raptor - Very fast, however limited to 50% health and switching to heavy weapons makes her very slow
-- Heavy       - Slow movement, 2 primary weapons, 110% gravity and 250 armor
-- Survivor
+- Alex Trucker  - Balanced, full health
+- Heather       - Very fast, however limited to 50% health and switching to heavy weapons makes her very slow
+- Cybil Bennett - Slow movement, 2 primary weapons, 110% gravity and 250 armor
+- Order Soldier - Survivor
 
 ### Extra Items ###
 - Humans:   Ammo
