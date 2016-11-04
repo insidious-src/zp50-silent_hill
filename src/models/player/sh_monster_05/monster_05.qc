@@ -1,4 +1,4 @@
-$modelname "../../../../models/player/sh_monster05/sh_monster05.mdl"
+$modelname "../../../../deploy/models/player/sh_monster05/sh_monster05.mdl"
 $cd "./"
 $cdtexture "./"
 $cliptotextures

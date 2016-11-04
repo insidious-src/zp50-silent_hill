@@ -1,4 +1,4 @@
-$modelname "../../../../models/player/sh_heather_mason/sh_heather_mason.mdl"
+$modelname "../../../../deploy/models/player/sh_heather_mason/sh_heather_mason.mdl"
 $cd "./"
 $cdtexture "./"
 $scale 1.0

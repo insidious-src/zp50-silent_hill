@@ -1,5 +1,5 @@
 // Output .MDL
-$modelname "../../../../models/player/sh_nurse_2/sh_nurse_2.mdl"
+$modelname "../../../../deploy/models/player/sh_nurse_2/sh_nurse_2.mdl"
 
 // Directory of .SMD
 $cd "./"

@@ -1,4 +1,4 @@
-$modelname "../../../../models/player/sh_pyramid_head_alt/sh_pyramid_head_alt.mdl"
+$modelname "../../../../deploy/models/player/sh_pyramid_head_alt/sh_pyramid_head_alt.mdl"
 $cd "./"
 $cdtexture "./"
 $scale 1.0

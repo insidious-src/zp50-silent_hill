@@ -1,6 +1,6 @@
-$modelname "..\..\..\..\models\player\jericho_cultist\jericho_cultist.mdl"
-$cd ".\"
-$cdtexture ".\"
+$modelname "../../../../deploy/models/player/jericho_cultist/jericho_cultist.mdl"
+$cd "./"
+$cdtexture "./"
 $scale 1.0
 $cliptotextures
 

@@ -1,0 +1,6 @@
+.imdone
+.tags*
+.vscode
+.ftpconfig
+sftp-config.json
+ftpsync.settings

@@ -1,4 +1,4 @@
-$modelname "../../../../models/player/sh_nurse_alt/sh_nurse_alt.mdl"
+$modelname "../../../../deploy/models/player/sh_nurse_alt/sh_nurse_alt.mdl"
 $cd "./"
 $cdtexture "./"
 $scale 1.0

@@ -12,9 +12,9 @@ Original internal name:
 ==============================================================================
 */
 
-$modelname "jericho_vicus.mdl"
-$cd ".\"
-$cdtexture ".\"
+$modelname "../../../../deploy/models/player/jericho_vicus/jericho_vicus.mdl"
+$cd "./"
+$cdtexture "./"
 $scale 1.0
 $cliptotextures
 
